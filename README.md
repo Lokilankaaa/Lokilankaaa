@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Lokilankaaa/Lokilankaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning CS
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Feel free to ask me everything
+- 📫 How to reach me: xw7771428@163.com
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Lokilankaaa)]()
+
+### Github Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=Lokilankaaa&c&ount_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]()
+
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokilankaaa)](https://github.com/anuraghazra/github-readme-stats)
