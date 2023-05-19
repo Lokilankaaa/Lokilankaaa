@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CV 
-- 🌱 I’m currently learning CS in Zhejiang University
 - 💬 Feel free to ask me everything
 - 📫 How to reach me: xw7771428@163.com
 
